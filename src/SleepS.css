@@ -1,0 +1,309 @@
+.android-large-5S {
+  text-align: center;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Mulish;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 50px;
+  display: flex;
+}
+
+.laura-vinck-hyu-76-lo-qS {
+  height: 100%;
+  background-image: url("/src/assets/BGSSlauraVinckHyu76LoQ.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: space-between;
+  align-items: stretch;
+  padding-bottom: 500px;
+  display: flex;
+}
+
+.rectangle-34S {
+  width: 100%;
+  background-color: #973535;
+  flex-direction: row;
+  flex-basis: 8%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 13px;
+  padding-bottom: 2px;
+  padding-left: 70px;
+  display: flex;
+}
+
+.sleep-soundS {
+  margin-bottom: 1px;
+  margin-left: 35px;
+}
+
+.flex-containerS {
+  width: 85%;
+  flex-direction: row;
+  flex-basis: 29%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 11px;
+  font-size: 2.25rem;
+  line-height: 45px;
+  display: flex;
+}
+
+.flex-container-1S {
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 7px;
+  margin-bottom: 3px;
+  font-size: 2.5rem;
+  line-height: 50px;
+  display: flex;
+}
+
+.cat-absolute-containerS {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -203px;
+  padding-bottom: -450px;
+  padding-left: 38px;
+  display: flex;
+}
+
+.windS {
+  margin-bottom: 300px;
+  margin-left: 19px;
+}
+
+.ellipse-4S {
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-2S {
+  color: #fbf7f7;
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 10px;
+  display: flex;
+}
+
+.cat-absolute-container-1S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -303px;
+  padding-top: 12px;
+  padding-left: 11px;
+  display: flex;
+}
+
+.silentS {
+  margin-top: 6px;
+  margin-left: 5px;
+}
+
+.ellipse-5S {
+  width: 303px;
+  height: 303px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-3S {
+  color: #000;
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-bottom: 10px;
+  margin-left: 2px;
+  font-weight: 800;
+  display: flex;
+}
+
+.cat-absolute-container-2S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -303px;
+  padding-top: 9px;
+  padding-left: 1px;
+  display: flex;
+}
+
+.crystalS {
+  margin-top: 4px;
+}
+
+.ellipse-6S {
+  width: 303px;
+  height: 303px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-4S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: stretch;
+  margin-bottom: -303px;
+  padding-top: 68px;
+  padding-left: 1px;
+  display: flex;
+}
+
+.flex-container-5S {
+  color: #fffefe;
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 90px;
+  font-size: 3rem;
+  
+  line-height: 60px;
+  display: flex;
+}
+
+.cat-absolute-container-3S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: stretch;
+  margin-bottom: -303px;
+  padding-top: 68px;
+  padding-left: 1px;
+  display: flex;
+}
+
+.rectangle-69S {
+  width: 200px;
+  margin-top: 150px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-6S {
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 1px;
+  display: flex;
+}
+
+.cat-absolute-container-4S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: -300px;
+  padding-top: 22px;
+  padding-left: 36px;
+  display: flex;
+}
+
+.forestS {
+  margin-top: 500px;
+}
+
+.ellipse-7S {
+  width: 200px;
+  height: 200px;
+  margin-right:125px ;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-top:160px ;
+  
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-7S {
+  height: 95%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  border-radius: 50%;
+  margin-bottom: 1px;
+  margin-left: 2px;
+  display: flex;
+}
+
+.cat-absolute-container-5S {
+  width: 100%;
+  z-index: 1;
+  flex-direction: row;
+  flex-basis: 100%;
+  
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+ 
+  padding-bottom: 250px;
+  padding-right: 18px;
+  display: flex;
+}
+
+.gardenS {
+  margin-bottom: -1080px;
+}
+
+.ellipse-8S {
+  width: 200px;
+  height: 200px;
+  margin-top: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.material-symbolsarroS {
+  width: 52px;
+  height: 48px;
+  object-fit: cover;
+  margin-left: 26px;
+}
